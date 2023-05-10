@@ -4,6 +4,7 @@
 ---
 ### Certification 
 - 컴퓨터활용능력 2급 
+- Microsoft AI-900 Azure
 
 ---
 ### Language 
